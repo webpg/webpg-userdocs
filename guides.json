@@ -1,0 +1,50 @@
+[
+  {
+    "title": "Getting Started with WebPG",
+    "items": [
+      {
+        "title": "Introduction",
+        "description": "This is an introduction to using WebPG",
+        "name": "introduction"
+      },
+      {
+        "title": "Prerequisites",
+        "description": "WebPG requirements",
+        "name": "prerequisites"
+      }
+    ]
+  },
+  {
+    "title": "Installation of WebPG",
+    "items": [
+      {
+        "name": "chrome",
+        "url": "guides/installation/chrome",
+        "title": "Google Chrome/Chromium",
+        "description": "Installation in Google Chrome/Chromium"
+      },
+      {
+        "name": "firefox",
+        "url": "guides/installation/firefox",
+        "title": "Mozilla Firefox",
+        "description": "Installation in Mozilla Firefox"
+      },
+      {
+        "name": "thunderbird",
+        "url": "guides/installation/thunderbird",
+        "title": "Mozilla Thunderbird",
+        "description": "Installation in Mozilla Thunderbird"
+      }
+    ]
+  },
+  {
+    "title": "General",
+    "items": [
+      {
+        "name": "faq",
+        "title": "Frequently Asked Questions",
+        "description": "Answers to commonly asked questions"
+      }
+    ]
+  }
+]

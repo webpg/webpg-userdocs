@@ -1,0 +1,133 @@
+div#header-content {
+  background: url("../images/logo.png") no-repeat transparent 0 2px;
+  background-size: 40px 40px;
+  padding: 15px 0 0 45px;
+  color: #FFF;
+  font-weight: bold;
+  height: 42px;
+  font-size: 20px;
+  margin: 0 0 0 7px;
+}
+
+#loading span.logo {
+  background: none;
+}
+
+#loading span.title {
+  background: url("../images/logo.png") no-repeat scroll transparent center;
+  background-size: 40px 40px;
+  left: -60px;
+  height: 150px;
+}
+
+.class-categories .section .left-column {
+  width: auto;
+}
+
+.class-categories .section .middle-column {
+  width: 500px;
+}
+
+.welcome-page .sub-title {
+  color: rgb(49, 78, 100);
+  margin: 7px 0;
+  font-weight: bold;
+  font-size: 18px;
+  padding: 10px 0 18px 55px;
+}
+
+.welcome-page .sub-title.api {
+  background: url("../images/class-m.png") no-repeat scroll -5px -5px transparent;
+}
+
+.welcome-page .sub-title.guides {
+  background: url("../images/doc-m.png") no-repeat scroll -5px -5px transparent;
+}
+
+.welcome-page .sub-title.examples {
+  background: url("../images/component-m.png") no-repeat scroll -5px -5px transparent;
+}
+
+.welcome-page .sub-title.github {
+  background: url("../images/github-logo.png") no-repeat scroll -5px -5px transparent;
+}
+
+.welcome-page .supported-browsers {
+  margin: 0 auto;
+  text-align: center;
+  padding-right: 74px;
+}
+
+.welcome-page .supported-browsers img {
+  height: 64px;
+  margin-left: 20px;
+}
+
+.welcome-page .col {
+  width: 50%;
+  float: left;
+  padding: 0 0 15px 0;
+}
+
+.welcome-page .col p {
+  padding-right: 35px;
+}
+
+.welcome-page .img {
+  float: right;
+  padding-top: 29px;
+}
+
+.welcome-page .copy {
+  float: left;
+  width: 550px;
+  padding-top: 30px;
+  padding-bottom: 40px;
+}
+
+.welcome-page .copy {
+  line-height: 22px;
+}
+
+.welcome-page .footer {
+  margin: 10px auto;
+  width: 500px;
+}
+
+.welcome-page #webpg-welcome-logo {
+  width: 150px;
+  border: 1px solid #888;
+  border-radius: 8px;
+  box-shadow: rgb(0, 0, 0) 2px 2px 2px;
+}
+
+.welcome-page {
+  width: 900px;
+  margin: 15px auto 0;
+}
+
+.welcome-page div.section {
+  margin: 0 0 20px;
+}
+
+.class-overview .hierarchy {
+  width: 30px;
+  height: 24px;
+  background-image: url("../images/example-icons.png");
+  background-position: -24px -109px;
+  background-repeat: no-repeat;
+}
+
+.class-overview .hierarchy:hover {
+  width: auto;
+  height: auto;
+  background-image: none;
+}
+
+.class-overview .hierarchy * {
+  display: none;
+}
+
+.class-overview .hierarchy:hover * {
+  display: inherit;
+}

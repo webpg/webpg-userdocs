@@ -1,0 +1,1 @@
+# Installation: Google Chrome/Chromium
