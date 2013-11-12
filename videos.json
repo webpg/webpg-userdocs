@@ -8,6 +8,20 @@
         "description": "A demo of the inline WebPG textarea Toolbar.",
         "id": "79114500",
         "thumb": "https://secure-b.vimeocdn.com/ts/454/726/454726191_295.jpg"
+      },
+      {
+        "name": "inline_demo1",
+        "title": "WebPG Inline Parsing Demo",
+        "description": "A demo of the inline parsing feature of WebPG.",
+        "id": "79144152",
+        "thumb": "https://secure-b.vimeocdn.com/ts/454/756/454756443_295.jpg"
+      },
+      {
+        "name": "gmail_demo1",
+        "title": "WebPG GMAIL Demo",
+        "description": "A demo of the WebPG GMAIL integration feature.",
+        "id": "79144153",
+        "thumb": "https://secure-b.vimeocdn.com/ts/454/756/454756445_295.jpg"
       }
     ]
   }
