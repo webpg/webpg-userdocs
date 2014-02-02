@@ -4,5 +4,5 @@
   "--guides": "guides.json",
   "--videos": "videos.json",
   "--welcome": "welcome.html",
-  "--head-html": "<link type=\"text/css\" href=\"resources/css/main.css\" rel=\"stylesheet\"><script>Docs.initEventTracking = function() { Ext.getCmp('north-region').setHeight(80); Ext.getCmp('north-region').items.first().setHeight(53); };</script>"
+  "--head-html": "<link type=\"text/css\" href=\"resources/css/main.css\" rel=\"stylesheet\"><script type=\"text/javascript\" src=\"webpg-fixup.js\"></script>"
 }
