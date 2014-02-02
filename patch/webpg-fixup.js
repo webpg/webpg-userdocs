@@ -9,7 +9,7 @@
       Ext.getCmp('north-region').setHeight(32);
       Ext.getCmp('north-region').items.first().setHeight(32);
       Ext.getCmp('doctabs').setPosition(0, 5);
-      Ext.getCmp('doctabs').el.dom.style.top = '5px';
+      Ext.getCmp('doctabs').el.dom.style.top = '5px !important';
       Ext.getCmp('doctabs').getEl(".tab-overflow").dom.style.top = '5px';
       Ext.getCmp('search-container').el.dom.style.marginLeft = '-10px';
       Ext.getCmp('search-container').el.dom.style.zIndex = '9999';
