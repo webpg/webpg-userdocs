@@ -4,5 +4,5 @@
   "--guides": "guides.json",
   "--videos": "videos.json",
   "--welcome": "welcome.html",
-  "--head-html": "<link type=\"text/css\" href=\"resources/css/main.css\" rel=\"stylesheet\"><script type=\"text/javascript\" src=\"webpg-fixup.js\"></script>"
+  "--head-html": "<link type=\"text/css\" href=\"resources/css/main.css\" rel=\"stylesheet\">\n<link rel=\"stylesheet\" type=\"text/css\" src=\"fixup.css\"/><script type=\"text/javascript\" src=\"webpg-fixup.js\"></script>"
 }
