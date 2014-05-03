@@ -8,7 +8,7 @@ WebPG costs you _nothing_!
 
 The WebPG project was originally developed by [Kyle L. Huff](http://curetheitch.com/ "curetheitch.com")
 
-Since the initial development cycle various developers and contributors have provided support, patches, translations, testing and technical expertise.
+Since the initial development cycle, various developers and contributors have provided support, patches, translations, testing and technical expertise.
 
 ## Why should I donate to WebPG
 

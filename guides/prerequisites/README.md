@@ -1,8 +1,6 @@
 # Prerequisites
 
-* GnuPG
-* Key Agent
-* gpgconf
+## The things you need in order to use WebPG
 
 #### GnuPG
 
@@ -18,7 +16,7 @@ In order to properly manage GnuPG options, the gpgconf utility must be installed
 
 ## Windows
 
-WebPG functions best with GnuPG installed via the gpg4win package on windows, which is freely available @ [http://gpg4win.org/](http://gpg4win.org/)
+WebPG works best with GnuPG installed via the gpg4win package on windows, which is freely available @ [http://gpg4win.org/](http://gpg4win.org/)
 
 ## Mac OSX
 

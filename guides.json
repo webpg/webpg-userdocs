@@ -1,6 +1,6 @@
 [
   {
-    "title": "Getting Started with WebPG",
+    "title": "WebPG Users Guide",
     "items": [
       {
         "title": "Introduction",
@@ -11,30 +11,135 @@
         "title": "Prerequisites",
         "description": "WebPG requirements",
         "name": "prerequisites"
-      }
-    ]
+      },
+      {
+        "title": "Options",
+        "description": "WebPG Options",
+        "name": "options"
+      },
+      {
+        "title": "Key Manager",
+        "description": "WebPG Key Manager",
+        "name": "keymanager"
+      }]
   },
   {
-    "title": "Installation of WebPG",
+    "title": "Installation Topics",
     "items": [
-      {
-        "name": "chrome",
-        "url": "guides/installation/chrome",
-        "title": "Google Chrome/Chromium",
-        "description": "Installation in Google Chrome/Chromium"
-      },
-      {
-        "name": "firefox",
-        "url": "guides/installation/firefox",
-        "title": "Mozilla Firefox",
-        "description": "Installation in Mozilla Firefox"
-      },
-      {
-        "name": "thunderbird",
-        "url": "guides/installation/thunderbird",
-        "title": "Mozilla Thunderbird",
-        "description": "Installation in Mozilla Thunderbird"
-      }
+    {
+      "name": "installation",
+      "title": "Installation of WebPG",
+      "description": "Installation of WebPG",
+      "url": "guides/installation"
+    },
+    {
+      "title": "Advanced Installation Topics",
+      "items": [
+        {
+          "name": "installation_advanced",
+          "title": "Advanced/Alternate Installations",
+          "description": "Advanced/Alternate Installations Available",
+          "url": "guides/installation/advanced"
+        },
+        {
+          "title": "Development Version",
+          "items": [
+            {
+              "name": "installation_devel_chrome",
+              "title": "Google Chrome Development Install",
+              "description": "Installation of the WebPG Development Version in Chrome",
+              "url": "guides/installation/chrome/development"
+            },
+            {
+              "name": "installation_devel_firefox",
+              "title": "Mozilla Firefox Development Install",
+              "description": "Installation of the WebPG Development Version in Firefox",
+              "url": "guides/installation/firefox/development"
+            },
+            {
+              "name": "installation_devel_thunderbird",
+              "title": "Mozilla Thunderbird Development Install",
+              "description": "Installation of the WebPG Development Version in Thunderbird",
+              "url": "guides/installation/thunderbird/development"
+            },
+            {
+              "name": "installation_devel_opera",
+              "title": "Opera Development Install",
+              "description": "Installation of the WebPG Development Version in Opera",
+              "url": "guides/installation/opera/development"
+            }
+          ]
+        },
+        {
+          "title": "Manual Installation",
+          "items": [
+            {
+              "name": "installation_manual_chrome",
+              "title": "Google Chrome Manual Installation",
+              "description": "Installation of the WebPG Manual Version in Chrome",
+              "url": "guides/installation/chrome/manual"
+            },
+            {
+              "name": "installation_manual_firefox",
+              "title": "Mozilla Firefox Manual Installation",
+              "description": "Installation of the WebPG Manual Version in Firefox",
+              "url": "guides/installation/firefox/manual"
+            },
+            {
+              "name": "installation_manual_thunderbird",
+              "title": "Mozilla Thunderbird Manual Installation",
+              "description": "Installation of the WebPG Manual Version in Thunderbird",
+              "url": "guides/installation/thunderbird/manual"
+            },
+            {
+              "name": "installation_manual_opera",
+              "title": "Opera Manual Install",
+              "description": "Installation of the WebPG Manual Version in Opera",
+              "url": "guides/installation/opera/manual"
+            }
+          ]
+        },
+        {
+          "title": "Offline Version",
+          "items": [
+            {
+              "name": "installation_chrome_offline",
+              "title": "Google Chrome Offline Installation",
+              "description": "Installation of the WebPG Offline Version in Chrome",
+              "url": "guides/installation/chrome/offline"
+            },
+            {
+              "name": "installation_firefox_offline",
+              "title": "Mozilla Firefox Offline Installation",
+              "description": "Installation of the WebPG Offline Version in Firefox",
+              "url": "guides/installation/firefox/offline"
+            },
+            {
+              "name": "installation_thunderbird_offline",
+              "title": "Mozilla Thunderbird Offline Installation",
+              "description": "Installation of the WebPG Offline Version in Thunderbird",
+              "url": "guides/installation/thunderbird/offline"
+            },
+            {
+              "name": "installation_offline_opera",
+              "title": "Opera Offline Install",
+              "description": "Installation of the WebPG Offline Version in Opera",
+              "url": "guides/installation/opera/offline"
+            }
+          ]
+        }
+      ]
+    }]
+  },
+  {
+    "title": "General",
+    "items": [
+    {
+      "name": "general_faq",
+      "title": "Frequently Asked Questions",
+      "description": "Answers to commonly asked questions",
+      "url": "guides/faq"
+    }
     ]
   },
   {
@@ -42,19 +147,15 @@
     "items": [
       {
         "name": "docs",
-        "url": "guides/contribution/docs",
         "title": "User Guides/Documentation",
-        "description": "Contributing to the User Guides/Documentation"
-      }
-    ]
-  },
-  {
-    "title": "General",
-    "items": [
+        "description": "Contributing to the User Guides/Documentation",
+        "url": "guides/contribution/docs"
+      },
       {
-        "name": "faq",
-        "title": "Frequently Asked Questions",
-        "description": "Answers to commonly asked questions"
+        "name": "code",
+        "title": "Contributing Code",
+        "description": "Contributing to the development of WebPG",
+        "url": "guides/contribution/code"
       }
     ]
   }

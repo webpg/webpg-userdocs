@@ -12,6 +12,7 @@ WebPG is currently supported on Linux, OSX and Windows, and supports the followi
 - Mozilla Firefox
 - Mozilla Seamonkey
 - Mozilla Thunderbird
+- Opera
 
 More application support coming soon!
 
