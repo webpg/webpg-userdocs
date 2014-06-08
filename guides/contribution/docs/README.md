@@ -32,7 +32,7 @@ Click on the "branch: master" button, which will display a dropdown - type in th
 ### Make edits
 
 #### Editing Existing Items
-If you are editing an existing guide, simply navigate to the desired guide and click on the README.md file. Once there, you will have an "Edit" button at the top of the file display. Simply make your edits using the Markdown format and then enter a "Commit Message" at the bottom and click on "Commit Changes".
+If you are editing an existing guide, simply navigate to the desired guide and click on the README.md file. Once there, you will have an "Edit" button at the top of the file display. Simply make your edits using the Markdown format, and optionally view the formatting by clicking on "Preview" at the top of the editor. Once you are satisfied with the Markdown, enter a "Commit Message" at the bottom and click on "Commit Changes".
 
 #### Creating New Items
 To create a new item, first navigate to the "guides" directory, near the top with the "branch: *mytopic-docs*" button it should say "webpg-userdocs / guides / [+]" &lt;- click on the [+]
