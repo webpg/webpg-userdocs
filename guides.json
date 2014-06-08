@@ -139,6 +139,12 @@
       "title": "Frequently Asked Questions",
       "description": "Answers to commonly asked questions",
       "url": "guides/faq"
+    },
+    {
+      "name": "troubleshooting",
+      "title": "Troubleshooting Topics",
+      "description": "Troubleshooting issues that may arise",
+      "url": "guides/troubleshooting"
     }
     ]
   },
